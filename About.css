@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap');
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", system-ui;
+
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: #262525;
+    
+}
+
+main {
+    
+}
+
+.main nav{
+font-size: 2rem;
+
+color: #3877FF;
+margin: 2rem;
+padding: 2rem;
+
+}
+
